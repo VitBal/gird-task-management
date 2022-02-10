@@ -16,6 +16,10 @@
                     {{ item.text }}
                 </div>
 
+                <div>
+                    <p>Add some text to component</p>
+                </div>
+
                 <v-card-text class="px-1 py-0">
                     <v-row>
                         <v-col>
